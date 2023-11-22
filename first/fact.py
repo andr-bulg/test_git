@@ -7,4 +7,5 @@ def fact_rec(n):
 if __name__ == '__main__':
     print(fact_rec(5))
     print(fact_rec(0))
+    print('Test finished')
 
