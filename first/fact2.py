@@ -5,5 +5,5 @@ def fact2(n):
   return fact
 
 if __name__ == "__main__":
-  print(fact2(5))
+  print(fact2(4))
 
