@@ -4,8 +4,7 @@ def fact2(n):
     fact *= i
   return fact
 
-if __name__ == "__main__":
-  print(fact2(5))
-  print(fact2(0))
+print(fact2(15))
+
 
 
